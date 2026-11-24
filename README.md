@@ -30,4 +30,4 @@ open index.html
 3. Custom domain `ai4smeportal.org` (set via `CNAME`). Enable **Enforce HTTPS** once the certificate is issued.
 4. DNS at the domain registrar:
    - Apex `ai4smeportal.org`: `A` records → `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
-   - `www`: `CNAME` → `<github-username>.github.io`
+   - `www`: `CNAME` → `knowhalim.github.io`
